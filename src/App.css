@@ -1,0 +1,10 @@
+:root {
+  margin: 0;
+  padding: 0;
+}
+
+.backdrop {
+  background-color: rgba(9, 9, 9, 0.953);
+  height: 100vh;
+  z-index: -999;
+}
